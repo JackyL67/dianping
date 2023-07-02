@@ -5,9 +5,8 @@ import cn.hutool.core.util.BooleanUtil;
 import org.springframework.core.io.ClassPathResource;
 import org.springframework.data.redis.core.StringRedisTemplate;
 import org.springframework.data.redis.core.script.DefaultRedisScript;
-import org.springframework.data.redis.core.script.RedisScript;
 
-import java.util.Arrays;
+
 import java.util.Collections;
 import java.util.concurrent.TimeUnit;
 
